@@ -1,0 +1,128 @@
+body {
+    background-color: rgb(255, 230, 160);
+    margin: 0 auto;
+    height:100%;
+}
+
+div button {
+    font-size: 21px;
+}
+
+header {
+    width: 100%;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+div .jumbotron img {
+  padding-top: 10px;
+  width: 100%;
+}
+
+.jumbotron {
+    font-family: baskervville;
+
+}
+
+nav li a {
+  width:100%;
+  position: static;
+}
+
+nav li .active {
+  color:#FF0000;
+}
+
+.navbar-nav {
+  color:#FF0000;
+  background-color:rgb(255, 176, 176);
+  width:100%;
+  position:center;
+}
+
+.navbar-collapse:hover {
+  background-color: rgb(255, 119, 119);
+}
+
+.active {
+  color: rgb(255, 119, 119);
+}
+
+div .carousel {
+  padding-bottom: 15px;
+}
+
+.carousel {
+  margin: auto;
+}
+
+.carousel-inner img {
+  margin: auto;
+  max-width:100%;
+  max-height:100%;
+}
+
+footer {
+  height:100px;
+  background-color: rgb(163, 0, 0);
+  padding: 15px;
+}
+
+footer table {
+  margin: auto;
+}
+
+footer table td, footer table th {
+  color: white;
+  font-family: lora;
+  padding-left: 55px;
+  padding-right: 55px;
+  margin: 0 auto;
+}
+
+footer a:hover {
+  color: gray;
+}
+
+footer a {
+  color: white;
+}
+
+.navbar {
+  font-family: lora;
+  color: white;
+}
+
+.container {
+  position: relative;
+}
+
+.container img {
+  align-content: center;
+  width: 50%;
+}
+
+.text-block {
+  position: absolute;
+  background-color: black;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  opacity: 60%;
+  border-color: white;
+  border-radius: 40px;
+  border-width: 5px;
+  border: white;
+  border-style: solid;
+}
+
+.text-block h4 {
+  font-size: 30px;
+}

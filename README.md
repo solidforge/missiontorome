@@ -1,2 +1,4 @@
 # solidforge.github.io
-THE REAL DEAL
+Website about the Life of Paul
+REL A 211 Final Project
+https://missiontorome.org/
